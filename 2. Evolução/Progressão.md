@@ -2,7 +2,6 @@
 - ganha **+1 proficiência** a cada 4 níveis  
 - ganha vida (1d8 + CON)
 
-
 # **Pontos de Pressão (PP)**
 
 PP são a **moeda de evolução biológica**.  
